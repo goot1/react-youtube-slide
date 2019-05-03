@@ -2,11 +2,15 @@
   "name": "react-youtube-slide",
   "version": "0.0.1",
   "description": "",
-  "main": "Gallery.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Nick (Seungjoo Moon) <nick901106@gmail.com>",
+  "author": {
+    "name" : "Nick(Seungjoo Moon)",
+    "email" : "nick901106@gmail.com",
+    "url" : ""
+  },
   "license": "ISC",
   "dependencies": {
     "jquery": "^3.4.1",
@@ -17,5 +21,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/SEUNGJOOMOON/react-youtube-slide"
-}
+  }
 }
