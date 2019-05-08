@@ -2,9 +2,9 @@ react-youtube-slide
 =============================
 
 Youtube thumnail slide and player
-<div>
-  <img src="https://postfiles.pstatic.net/MjAxOTA1MDhfMTY2/MDAxNTU3MzAzOTUwOTY0.orhWrfh1nGrlweALhL75i9HRxRgynwI_ot6mZfva30wg.n0m5xsF655ictQnpcFD05y5TtZ-bPxNNy1xDmrPzEbcg.PNG.0117585682/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2019-05-08_%EC%98%A4%ED%9B%84_5.22.02.png?type=w773" />  
-</div>
+
+![스크린샷 2019-05-08 오후 5 22 02](https://user-images.githubusercontent.com/42509800/57361190-d69b4f80-71b6-11e9-93cf-1d27c2ae587a.png)
+
 
 ## Installation
 
