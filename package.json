@@ -1,6 +1,6 @@
 {
   "name": "react-youtube-slide",
-  "version": "0.1.7-beta",
+  "version": "1.0.0",
   "description": "Youtube thumnail slide and player based on React.js",
   "main": "index.js",
   "scripts": {
