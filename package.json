@@ -1,8 +1,8 @@
 {
   "name": "react-youtube-slide",
-  "version": "0.1.6-beta",
+  "version": "0.1.7-beta",
   "description": "Youtube thumnail slide and player based on React.js",
-  "main": "dist/Gallery.js",
+  "main": "index.js",
   "scripts": {
     "compile": "babel src --out-dir dist"
   },
@@ -11,6 +11,12 @@
     "email": "nick901106@gmail.com",
     "url": "https://github.com/SEUNGJOOMOON/"
   },
+  "files": [
+    "README.md",
+    "index.js",
+    "dist/",
+    "css/"
+  ],
   "license": "ISC",
   "dependencies": {
     "babel": "^6.23.0",
