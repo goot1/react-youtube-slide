@@ -1,7 +1,7 @@
 import React from 'react';
 import Preview from './Preview';
 import YoutubeViewer from './YotubeViewer'
-import './index.css';
+import '../css/index.css';
 
 class Gallery extends React.Component {
     constructor(props) {
