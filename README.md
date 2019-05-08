@@ -1,4 +1,4 @@
-react-youtube-slide [![Build Status](https://travis-ci.org/troybetz/react-youtube.svg?branch=master)](https://travis-ci.org/troybetz/react-youtube)
+react-youtube-slide
 =============================
 
 Youtube thumnail slide and player
@@ -39,9 +39,10 @@ const RESCOURCES = [
     }
     ...
   ]
-  
+
 //parameter name must be youtubes and galleryId
-ReactDOM.render(<Gallery youtubes={RESCOURCES} galleryId='gallery1' />, document.getElementById('root'));
+ReactDOM.render(<Gallery youtubes={RESCOURCES} galleryId='gallery1' />,
+document.getElementById('root'));
 
 ```
 
