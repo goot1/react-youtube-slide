@@ -1,7 +1,7 @@
 {
   "name": "react-youtube-slide",
-  "version": "0.1.4-beta",
-  "description": "",
+  "version": "0.1.6-beta",
+  "description": "Youtube thumnail slide and player based on React.js",
   "main": "dist/Gallery.js",
   "scripts": {
     "compile": "babel src --out-dir dist"
