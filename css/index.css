@@ -27,7 +27,7 @@
 }
 .preview_wrap{
   position: relative;
-  width: 1260px;
+  width: 1240px;
   height: 320px;
   margin:0 auto;
   overflow: hidden;
@@ -44,7 +44,7 @@
 .left_arrow{
   position: absolute;
   top: 95px;
-  left: -30px;
+  left: -45px;
   cursor: pointer;
 }
 
@@ -61,6 +61,7 @@
     position: relative;
     display: inline-block;
     margin: 0 auto;
+    margin-left: -20px;
 }
 .preview_list {
     position: relative;
