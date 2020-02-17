@@ -26,7 +26,9 @@ class YoutubeViewer extends React.Component {
       }
 
       render () {
-        let youtubeSrc = 'http://www.youtube.com/embed/' + this.props.youtubeInfo.currentYtbId+ '?autoplay=' + this.props.youtubeInfo.autoplay;
+        
+       
+        let youtubeSrc = 'https://www.youtube.com/embed/' + this.props.youtubeInfo.currentYtbId+ '?autoplay=' + this.props.youtubeInfo.autoplay;
         
           if(this.props.youtubeInfo.displayFlag){
             return (
