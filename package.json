@@ -1,15 +1,12 @@
 {
-  "name": "react-youtube-slide",
-  "version": "1.0.3",
+  "name": "react-youtube-slide-goot",
+  "version": "1.0.4",
   "description": "Youtube thumnail slide and player based on React.js",
   "main": "index.js",
   "scripts": {
     "compile": "babel src --out-dir dist"
   },
   "author": {
-    "name": "Nick(Seungjoo Moon)",
-    "email": "nick901106@gmail.com",
-    "url": "https://github.com/SEUNGJOOMOON/"
   },
   "files": [
     "README.md",
@@ -35,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/SEUNGJOOMOON/react-youtube-slide"
+    "url": "https://github.com/goot1/react-youtube-slide-goot.git"
   },
   "keywords": [
     "react",
